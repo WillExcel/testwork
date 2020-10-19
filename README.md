@@ -1,1 +1,1 @@
-# testwork
+<BatchFileInterfaceMetadata><sourceSystem>PKS</sourceSystem><sourceSystemType>AWS</sourceSystemType><interfaceName>TTT05</interfaceName><interfaceVersion>7.0.0</interfaceVersion><superID>02590</superID><checksum>d88b8134558195ddb3ca2c49c599c265</checksum><checksumAlgorithm>CD5</checksumAlgorithm><fileSize>66686742345</fileSize><compressed>true</compressed><sourceLocation>tmp</sourceLocation><sourceFileName>CDF_APDS_20201019112554_03245.zip</sourceFileName></BatchFileInterfaceMetadata>
